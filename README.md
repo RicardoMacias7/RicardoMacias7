@@ -33,7 +33,6 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
  <!--REPOSITORIOS-->
 <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h2>
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
