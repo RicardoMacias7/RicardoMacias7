@@ -49,8 +49,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 ----	
 
- 
-	  <!--REPOSITORIOS-->
+ <!--REPOSITORIOS-->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
