@@ -28,11 +28,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 ----	
 
-<div id="user-content-toc">
-  <ul align="center">
-   <h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h2>
-  </ul>
-</div>
+
+<h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
