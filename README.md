@@ -53,8 +53,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <h3 align="center"> :open_file_folder: My Repositories </h3>	
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion" style="width: 50px; min-height: 60px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-De-Facturacion&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
-  </a>
+     </a>
   <a href="https://github.com/RicardoMacias7/Sistema-Horario-Academico" style="width: 260px; min-height: 120px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-Horario-Academico&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
   </a>
