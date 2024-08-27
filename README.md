@@ -59,11 +59,11 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 	      <a href="https://github.com/RicardoMacias7/Login">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Login&theme=tokyonight" alt="GitHub Stats"  />
     </a>
-    <a href="https://github.com/RicardoMacias7/Portafolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Portafolio&theme=tokyonight" alt="GitHub Stats"  />
-    </a>
     <a href="https://github.com/RicardoMacias7/Sistema-Horario-Academico" >
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-Horario-Academico&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/RicardoMacias7/Portafolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Portafolio&theme=tokyonight" alt="GitHub Stats"  />
     </a>
   </p>
 </div>
