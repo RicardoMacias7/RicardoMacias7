@@ -29,12 +29,12 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
   <!--ESTADISTICAS DE RACHAS-->
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=RicardoMacias7&theme=tokyonight_duo&border_radius=6.3" alt="RicardoMacias7" /></p>
-</details>
+
   <!--ESTADISTICAS DEL PERFIL-->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
