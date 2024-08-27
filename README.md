@@ -53,7 +53,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
  <!--REPOSITORIOS-->
 <h3 align="center"> My Repositories </h3>
-    <h2 style="display: inline-block">💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+    <h2>💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
   <p align="center">
     <a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion" >
