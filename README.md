@@ -87,9 +87,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-macias-1a2297320/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/rikmac7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="mailto:rikimac444@gmail.com">
-  <img alt="Gmail" title="Ricardo Macias Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="50" width="50">
-</a>
+<a href="mailto:rikimac444@gmail.com" target="blank"><img align="center" alt="Gmail" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" height="50" width="50"></a>
 
 </p>
 
