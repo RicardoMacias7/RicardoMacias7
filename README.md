@@ -30,11 +30,10 @@ RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?u
     <a href="https://skillicons.dev">
         <img
             src="https://skillicons.dev/icons?i=androidstudio,java,php,py,django,css,html,js,bootstrap,mysql,sqlite,firebase,git,github,netlify,postman,vscode,pycharm,ai,ps,ae&perline=12" />
-
-
 </p>
 <br>
-
+        
+<br><br>
 <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,7 +62,7 @@ RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?u
     </tr>
 </table>
 
-
+<br><br>
 <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -91,7 +90,7 @@ RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?u
     </p>
 </div>
 
-
+<br><br>
 <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
