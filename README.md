@@ -69,5 +69,3 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
     </a>
   </p>
 </div>
-
-
