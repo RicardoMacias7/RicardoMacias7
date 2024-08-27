@@ -5,8 +5,8 @@ I am a Software Development graduate with a passion for design and creating intu
 I am a passionate, empathetic, and committed individual, with skills in teamwork, assertive communication, and a strong focus on my projects. I enjoy taking on new challenges and am always eager to learn. I aspire to secure my first job in Software Development, gain experience, and strengthen my professional career in programming
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+<!--## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me-->
+### 👨🏻‍💻 &nbsp;About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
