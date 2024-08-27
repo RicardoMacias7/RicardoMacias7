@@ -15,9 +15,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 ----	
 
  <!--habilidades-->
-  <ul align="center">
-    <h3 style="display: inline-block">💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 
+<h3 align="center" style="display: inline-block">💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +30,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 ----	
 
  <!--estadisticas-->
-<h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h3>
+<h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
