@@ -12,7 +12,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <br><br>
 
 
-----	
+---------------------------------------------------------------------- 	
 
  <!--habilidades-->
 
