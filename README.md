@@ -36,7 +36,11 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="RicardoMacias7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoMacias7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMacias7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RicardoMacias7" height="230px"/>
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph") </p>
+
+
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoMacias7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoMacias7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
 ----	
