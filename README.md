@@ -10,6 +10,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 - :boom: You can visit [MY WEBSITE](https://ricardo-mac-portafolio.netlify.app/).
 - 📫 Contact: **rikimac444@gmail.com**
 
+<br>
 ##
 <div id="user-content-toc">
   <ul align="center">
