@@ -27,21 +27,15 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <br>
 
 
-
-<!--<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>-->
-
-
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
-
+  <!--ESTADISTICAS DE RACHAS-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=RicardoMacias7&theme=tokyonight_duo&border_radius=6.3" alt="RicardoMacias7" /></p>
 </details>
-  
+  <!--ESTADISTICAS DEL PERFIL-->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
@@ -54,7 +48,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
   </p>
 </details>
-
+<!--ACTIVIDAD RECIENTE-->
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
@@ -63,17 +57,12 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
  
 </details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
+<!--TROFEOS-->
+<summary> <h3> :trophy: Git profile Trophies </h3></summary>
 ----
-	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoMacias7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
-
-	
-</details>
-	
+	  <!--REPOSITORIOS-->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
