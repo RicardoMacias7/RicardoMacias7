@@ -30,8 +30,9 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <p align="center"><img src="https://streak-stats.demolab.com?user=RicardoMacias7&theme=tokyonight_duo&border_radius=6.3" alt="RicardoMacias7" /></p>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RicardoMacias7&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
