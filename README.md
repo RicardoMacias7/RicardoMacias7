@@ -15,8 +15,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2></summary>
-  </ul>
+    <h2 style="display: inline-block">💻 Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 </div>
 <!--tech stack icons-->
 <p align="center">
@@ -31,7 +30,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h2></summary>
+   <h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>Github Stats  </h2>
   </ul>
 </div>
 <table align="center">
@@ -44,13 +43,10 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 </td>
 <td width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMacias7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RicardoMacias7" height="230px"/>
-
-  
 </td>
 </tr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoMacias7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 </table>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoMacias7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 ----	
 
  <!--REPOSITORIOS-->
