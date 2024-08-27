@@ -50,14 +50,14 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 ----	
 
  <!--REPOSITORIOS-->
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<h3 align="center"> :open_file_folder: My Repositories </h3>
 
 ----
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-De-Facturacion&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
@@ -118,4 +118,3 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
     	</a>
   </p>
 </div>
-</details>
