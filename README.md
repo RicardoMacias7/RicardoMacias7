@@ -29,7 +29,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 - 🎨 &nbsp;
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas</h2>
+<h3> 🛠 &nbsp;Tech Stack 👨🏻‍💻</h3>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
