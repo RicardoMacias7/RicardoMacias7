@@ -13,7 +13,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 <div align="center">
 ## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px>
-</div>
+
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -21,4 +21,5 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
   </a>
 </p>
+</div>
 <br>
