@@ -31,7 +31,7 @@ RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?u
         <img
             src="https://skillicons.dev/icons?i=androidstudio,java,php,py,django,css,html,js,bootstrap,mysql,sqlite,firebase,git,github,netlify,postman,vscode,pycharm,ai,ps,ae&perline=12" />
 
-    </a>
+
 </p>
 <br>
 
