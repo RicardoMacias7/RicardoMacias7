@@ -1,4 +1,4 @@
-## <h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <h1 align="center">Hi , I'm Ricardo Macias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 I am a Software Development graduate with a passion for design and creating intuitive, aesthetically pleasing user interfaces. My goal is to develop projects that deliver the best user experience.
 
 I am a passionate, empathetic, and committed individual, with skills in teamwork, assertive communication, and a strong focus on my projects. I enjoy taking on new challenges and am always eager to learn. I aspire to secure my first job in Software Development, gain experience, and strengthen my professional career in programming
