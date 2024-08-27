@@ -31,10 +31,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
   <!--ESTADISTICAS DE RACHAS-->
 <h3> 🔥 Streak Stats</h3>
 
-----	
-
 <p align="center"><img src="https://streak-stats.demolab.com?user=RicardoMacias7&theme=tokyonight_duo&border_radius=6.3" alt="RicardoMacias7" /></p>
-
+----	
   <!--ESTADISTICAS DEL PERFIL-->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
