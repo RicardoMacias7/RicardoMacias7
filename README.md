@@ -34,8 +34,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,django,css,html,js,bootstrap,mysql,sqlite,firebase,git,github,postman,vscode,pycharm,ai,ps,ae&perline=12" />
-   <img height="12px" src="https://cdn.svgporn.com/logos/netlify.svg">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,django,css,html,js,bootstrap,mysql,sqlite,firebase,git,github,netlify,postman,vscode,pycharm,ai,ps,ae&perline=12" />
+
   </a>
 </p>
 <br>
