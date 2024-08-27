@@ -53,6 +53,10 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
  <!--REPOSITORIOS-->
  <h3 align="center"> My Repositories </h3>
+
+ ----
+
+ 
  <h2 align="center">Technologies That I Know </h2>
 
 <div>
