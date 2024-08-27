@@ -51,7 +51,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 ----	
 
  <!--REPOSITORIOS-->
- <h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> My Repositories </h3> 
+ <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> My Repositories </h2> 
 
 
 
