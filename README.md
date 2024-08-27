@@ -1,5 +1,4 @@
- <!--linea-->
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi , I am <a  href="https://ricardo-mac-portafolio.netlify.app/" target="_blank">Ricardo Macias</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -13,7 +12,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 - 📫 Contact: **rikimac444@gmail.com**
 <br><br>
 
-
+ <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <!--habilidades-->
@@ -28,7 +27,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 </p>
 <br>
 
-
+ <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <!--estadisticas-->
@@ -48,6 +47,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 </tr>
 </table>
 
+
+ <!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
  <!--REPOSITORIOS-->
