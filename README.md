@@ -51,19 +51,19 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
  <!--REPOSITORIOS-->
 <h3 align="center"> :open_file_folder: My Repositories </h3>	
-<div>
-  <p align="center">
-    <a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion" style="display: inline-block; width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-De-Facturacion&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-    </a>
-    <a href="https://github.com/RicardoMacias7/Sistema-Horario-Academico" style="display: inline-block; width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-Horario-Academico&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-    </a>
-    <a href="https://github.com/RicardoMacias7/Login" style="display: inline-block; width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Login&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-    </a>
-    <a href="https://github.com/RicardoMacias7/Portafolio" style="display: inline-block; width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Portafolio&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-    </a>
-  </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion" style="width: 300px; min-height: 150px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-De-Facturacion&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
+  </a>
+  <a href="https://github.com/RicardoMacias7/Sistema-Horario-Academico" style="width: 300px; min-height: 150px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Sistema-Horario-Academico&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
+  </a>
+  <a href="https://github.com/RicardoMacias7/Login" style="width: 300px; min-height: 150px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Login&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
+  </a>
+  <a href="https://github.com/RicardoMacias7/Portafolio" style="width: 300px; min-height: 150px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoMacias7&repo=Portafolio&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: 100%;" />
+  </a>
+</div>
+
 </div>
