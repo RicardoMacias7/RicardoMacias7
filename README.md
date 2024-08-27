@@ -59,7 +59,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoMacias7&theme=dracula)](https://github.com/RicardoMacias7/github-readme-activity-graph)
 
  
 </details>
