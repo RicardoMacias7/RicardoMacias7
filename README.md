@@ -72,7 +72,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
     </a>
   </p>
 </div>
- ----
 
+ ----
  
  <h2 align="center">Technologies That I Know </h2>
