@@ -5,6 +5,13 @@ I am a Software Development graduate with a passion for design and creating intu
 I am a passionate, empathetic, and committed individual, with skills in teamwork, assertive communication, and a strong focus on my projects. I enjoy taking on new challenges and am always eager to learn. I aspire to secure my first job in Software Development, gain experience, and strengthen my professional career in programming
 
 
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer .
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://ricardo-mac-portafolio.netlify.app/).
+- 📫 Contact: **rikimac444@gmail.com**
+
 <!--## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me-->
 ### 👨🏻‍💻 &nbsp;About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
