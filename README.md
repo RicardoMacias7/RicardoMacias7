@@ -50,10 +50,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 ----	
 
  <!--REPOSITORIOS-->
-<h3 align="center"> :open_file_folder: My Repositories </h3>
-
-----
-	
+<h3 align="center"> :open_file_folder: My Repositories </h3>	
 <div>
   <p align="center">
 	<a href="https://github.com/RicardoMacias7/Sistema-De-Facturacion">
