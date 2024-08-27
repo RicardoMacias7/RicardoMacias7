@@ -29,7 +29,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
   <!--ESTADISTICAS DE RACHAS-->
-<summary><h3> 🔥 Streak Stats</h3></summary>
+<h3> 🔥 Streak Stats</h3>
 
 ----	
 
