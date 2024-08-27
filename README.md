@@ -39,7 +39,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMacias7a&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 </details>
   
