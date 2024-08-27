@@ -30,17 +30,18 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
   <!--ESTADISTICAS DE RACHAS-->
 <h3> 🔥 Streak Stats</h3>
+
   <!--ESTADISTICAS DE RACHAS-->
 <p align="center"><img src="https://streak-stats.demolab.com?user=RicardoMacias7&theme=tokyonight_duo&border_radius=6.3" alt="RicardoMacias7" /></p>
+
+ <!--ESTADISTICAS DE PERFIL-->
 <p align="center">
-	  <!--ESTADISTICAS DE PERFIL-->
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="RicardoMacias7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoMacias7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMacias7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RicardoMacias7" height="230px"/>
 
-
  <!--ACTIVIDAD RECEINTE-->
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoMacias7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![7oSkaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RicardoMacias7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
  <!--TROFEOS-->
