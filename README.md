@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 I am a Software Development graduate with a passion for design and creating intuitive, aesthetically pleasing user interfaces. My goal is to develop projects that deliver the best user experience.
-
+<br>
 I am a passionate, empathetic, and committed individual, with skills in teamwork, assertive communication, and a strong focus on my projects. I enjoy taking on new challenges and am always eager to learn. I aspire to secure my first job in Software Development, gain experience, and strengthen my professional career in programming.
 <br><br>
 - :computer: I am a competitive programmer .
