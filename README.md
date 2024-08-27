@@ -1,4 +1,4 @@
-## <h1 align="center">Hi , I am <a  href="https://ricardo-mac-portafolio.netlify.app/">Ricardo Macias</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+## <h1 align="center">Hi , I am <a  href="https://ricardo-mac-portafolio.netlify.app/" target="_blank">Ricardo Macias</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I am a Software Development graduate with a passion for design and creating intuitive, aesthetically pleasing user interfaces. My goal is to develop projects that deliver the best user experience.
 
