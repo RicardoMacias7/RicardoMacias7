@@ -15,7 +15,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <h2>💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px></h2>
 
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,django,css,html,js,bootstrap,mysql,sqlite,firebase,git,github,netlify,postman,vscode,pycharm,ai,ps,ae&perline=12" />
 
