@@ -8,6 +8,8 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://ricardo-mac-portafolio.netlify.app/).
 - 📫 Contact: **rikimac444@gmail.com**
+- 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
 ## 
