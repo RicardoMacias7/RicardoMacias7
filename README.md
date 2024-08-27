@@ -33,7 +33,7 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,dotnet,css,html,js,mysql,sqlite,firebase,git,github,docker,materialui,postman,eclipse,vscode,bash,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,css,html,js,mysql,sqlite,firebase,git,github,postman,vscode,ai,ps&perline=12" />
   </a>
 </p>
 <br>
