@@ -43,8 +43,6 @@ I am a passionate, empathetic, and committed individual, with skills in teamwork
 </td>
 <td width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMacias7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RicardoMacias7" height="230px"/>
-</td>
-<td width="50%" align="bottom">	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoMacias7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 </td>
 </tr>
