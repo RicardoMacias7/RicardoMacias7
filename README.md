@@ -107,7 +107,7 @@ RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?u
 
 <!--icons and links-->
 <p align="center">
-    <a href="https://www.linkedin.com/in/jose-macias-1a2297320/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/ricardo-macias-1a2297320/" target="blank"><img align="center"
             src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
             alt="linkedin" height="50" width="50" /></a>
     <a href="https://www.instagram.com/rikmac7" target="blank"><img align="center"
