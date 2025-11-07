@@ -12,8 +12,8 @@ Software Development, gain experience, and strengthen my professional career in 
 <br><br>
 - :computer: I am a competitive programmer .
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY
-RESUME](https://drive.google.com/file/d/16i-gZMj-Nt1Rp2lnTo7P3pahN5mQVV1_/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://ricardo-mac-portafolio.netlify.app/).
+RESUME](https://drive.google.com/file/d/16J3O2pOYKMCD0n_Hg108pJmYjgD_B2PG/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://portafolio-ricardo-macias.netlify.app/).
 - 📫 Contact: **rikimac444@gmail.com**
 <br><br>
 
